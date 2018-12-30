@@ -1,0 +1,39 @@
+$black: #000000;
+$yellow: #FFFF00;
+
+// dirty website colors
+$alert-red: #FF0000;
+$deep-red: #D92121;
+$bright-yellow: #FFAA1D;
+$yellow-sunshine: #FFF700;
+$slime-green: #299617;
+$lizard-green: #A7F432;
+$hot-pink: #FF6EFF;
+$pink-purple: #FF007C;
+$fuchsia: #C154C1;
+$bright-orange: #FFDB00;
+$out-orange: #FF6037;
+$blue: #0000FF;
+
+.black {
+    color: $black;
+}
+
+.yellow {
+    color: $yellow;
+}
+
+.main-wrapper {
+
+    .dirty-row-wrapper {
+        width: 100%;
+        height: 200px;
+        background-color: blue;
+
+        .big-red {
+            height: 100px;
+            width: 100px;
+            background-color: $alert-red;
+        }
+    }
+}

@@ -1,0 +1,16 @@
+.black {
+  color: #000000; }
+
+.yellow {
+  color: #FFFF00; }
+
+.main-wrapper .dirty-row-wrapper {
+  width: 100%;
+  height: 200px;
+  background-color: blue; }
+  .main-wrapper .dirty-row-wrapper .big-red {
+    height: 100px;
+    width: 100px;
+    background-color: #FF0000; }
+
+/*# sourceMappingURL=main.css.map */
